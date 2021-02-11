@@ -1,0 +1,8 @@
+/*.owl-carousel::-webkit-scrollbar {width: 0; background: transparent;}*/
+/*.owl-item + .active:last-child{*/
+.owl-item.active{
+    margin-right: 20px;
+}
+.mt{
+
+}
